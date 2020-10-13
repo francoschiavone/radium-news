@@ -1,11 +1,11 @@
 a:hover{
     text-decoration: none !important;
   }
-  
+
   a{
       color: #326891 !important;
   }
-  
+
   .article-title{
     font-size: 24px;
     font-style: italic;
@@ -13,19 +13,19 @@ a:hover{
     margin: 70px auto 20px auto;
     max-width: 600px;
   }
-  
+
   .article-title p{
     margin-top:10px;
     color: #333;
     font-size: 20px;
   }
-  
+
   .container{
     margin-top: 65px;
     z-index: -1;
     font-family: Georgia, serif, sans-serif;
   }
-  
+
   .navbar {
       position: fixed;
       width:100%;
@@ -36,13 +36,13 @@ a:hover{
       line-height: 50px;
       border-bottom:1px solid gray;
   }
-  
+
   .navbar-right{
       position: absolute;
       right:50px;
       top:0;
   }
-  
+
   .navbar-right button{
       padding:8px 16px;
       border-radius: 4px;
@@ -51,18 +51,18 @@ a:hover{
       font-size: 10px;
       color: white;
   }
-  
+
   button:hover{
     background: #2b536f;
   }
-  
+
   .navbar-center {
       top:0;
       left: 50vw;
       text-align: center;
       font-size: 30px;
   }
-  
+
   .navbar-left{
       position: absolute;
       left:50px;
@@ -71,46 +71,46 @@ a:hover{
   .navbar-left h3 {
       display:inline;
   }
-  
+
   .authors-and-date{
       width:600px;
       margin: auto;
       text-align: justify;
       margin-bottom:35px;
   }
-  
+
   .authors-and-date p{
       font-weight: bold;
   }
-  
+
   .authors-and-date a{
       color: black;
       text-decoration: underline;
   }
-  
-  
+
+
   main{
       width:600px;
       margin: auto;
       text-align: justify;
       margin-bottom:10px;
   }
-  
+
   main p{
   margin-top:20px;
   font-size: 20px;
   line-height: 30px;
   margin-bottom:20px;
   }
-  
-  
+
+
   .details-img {
       width: 600px;
       margin: auto;
       text-align: center;
       margin-bottom:30px;
   }
-  
+
   .figcap {
       font-size:15px !important;
       color:gray !important;
@@ -118,22 +118,22 @@ a:hover{
       margin-bottom:20px !important;
       text-align:center !important;
   }
-  
+
   .remark{
     font-style: italic;
   }
-  
+
   .twitter-tweet{
     text-align: center;
   }
-  
+
   footer{
       width:600px;
       margin: auto;
       text-align: justify;
       margin-bottom:60px;
   }
-  
+
   footer p{
   margin-top:0px;
   font-size: 15px;
