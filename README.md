@@ -1,4 +1,7 @@
-# radium-news
-Solution for week 1 task - Radium Rocket 15 week course: create a HTML document with the structure and content of a news article.
+# rrcourse-week2
+Solution for week 2 task - Radium Rocket 15 week course.
+Links to the original sources: 
 
-Link to the original source: https://www.nytimes.com/2020/10/04/opinion/coronavirus-vaccines-masks.html?searchResultPosition=7
+Week 1 article: https://www.nytimes.com/2020/10/04/opinion/coronavirus-vaccines-masks.html?searchResultPosition=7
+
+Week 2 article: https://www.nytimes.com/2020/10/11/sports/basketball/lakers-heat-live-score.html
