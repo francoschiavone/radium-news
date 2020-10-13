@@ -1,9 +1,9 @@
 a:hover{
-    text-decoration: none !important;
+    text-decoration: none;
   }
 
   a{
-      color: #326891 !important;
+      color: #326891;
   }
 
   .article-title{
@@ -88,6 +88,9 @@ a:hover{
       text-decoration: underline;
   }
 
+  .authors-and-date a:hover{
+    text-decoration: none;
+  }
 
   main{
       width:600px;
@@ -108,15 +111,16 @@ a:hover{
       width: 600px;
       margin: auto;
       text-align: center;
-      margin-bottom:30px;
+      margin-bottom:10px;
   }
 
   .figcap {
-      font-size:15px !important;
-      color:gray !important;
-      line-height:20px !important;
-      margin-bottom:20px !important;
-      text-align:center !important;
+      font-size:15px;
+      color:gray;
+      line-height:20px;
+      margin-bottom:30px;
+      margin-top:0;
+      text-align:center;
   }
 
   .remark{
